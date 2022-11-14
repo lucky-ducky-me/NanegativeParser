@@ -95,9 +95,9 @@ public class Parser {
     }
 
     /**
-     * Получение среднего рейтинга из веб-элемента.
+     * Получение количества отзывов из веб-элемента.
      * @param reviewsAmountElement веб-элемент.
-     * @return средний рейтинг.
+     * @return количество отзывов.
      */
     private Integer getReviewsAmount(WebElement reviewsAmountElement) {
         var averageRatingData =
