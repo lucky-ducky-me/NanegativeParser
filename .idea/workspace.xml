@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae4c83f-289a-490a-a4c9-107fca35e133" name="Changes" comment="Инициализация проекта.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parsing/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parsing/StoreReview.java" afterDir="false" />
+    <list default="true" id="4ae4c83f-289a-490a-a4c9-107fca35e133" name="Changes" comment="Исправлены комментарии.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668432616513</updated>
-      <workItem from="1668432617697" duration="6999000" />
+      <workItem from="1668432617697" duration="8176000" />
     </task>
     <task id="LOCAL-00001" summary="Инициализация проекта.">
       <created>1668432821830</created>
@@ -69,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668432821830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Реализовно чтение отзывов с сайта.">
+      <created>1668440746426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668440746426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Исправлены комментарии.">
+      <created>1668440796727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668440796727</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,18 +98,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Инициализация проекта." />
-    <option name="LAST_COMMIT_MESSAGE" value="Инициализация проекта." />
+    <MESSAGE value="Реализовно чтение отзывов с сайта." />
+    <MESSAGE value="Исправлены комментарии." />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправлены комментарии." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Parsing/Parser.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="storeReviews" />
